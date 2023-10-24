@@ -1,0 +1,35 @@
+{
+  "contato": [
+    
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "Aprendendo a programar",
+      "author": "Eduardo",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "usuario": [
+    {
+      "id": 1,
+      "name": "Pedro"
+    },
+    {
+      "name": "Rubens",
+      "id": 2
+    }
+  ]
+}
